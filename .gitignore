@@ -1,2 +1,13 @@
+# Large data files
 *.h5
-*.dl2.h5
+
+# Virtual environment
+acr_setup_env/
+
+# Mac system files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
